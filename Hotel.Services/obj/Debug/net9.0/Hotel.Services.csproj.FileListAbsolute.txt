@@ -1,0 +1,17 @@
+C:\Users\hossny D. monkey\source\repos\HotelSystem\Hotel.Services\bin\Debug\net9.0\Hotel.Services.deps.json
+C:\Users\hossny D. monkey\source\repos\HotelSystem\Hotel.Services\bin\Debug\net9.0\Hotel.Services.runtimeconfig.json
+C:\Users\hossny D. monkey\source\repos\HotelSystem\Hotel.Services\bin\Debug\net9.0\Hotel.Services.dll
+C:\Users\hossny D. monkey\source\repos\HotelSystem\Hotel.Services\bin\Debug\net9.0\Hotel.Services.pdb
+C:\Users\hossny D. monkey\source\repos\HotelSystem\Hotel.Services\obj\Debug\net9.0\Hotel.Services.csproj.AssemblyReference.cache
+C:\Users\hossny D. monkey\source\repos\HotelSystem\Hotel.Services\obj\Debug\net9.0\Hotel.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hossny D. monkey\source\repos\HotelSystem\Hotel.Services\obj\Debug\net9.0\Hotel.Services.AssemblyInfoInputs.cache
+C:\Users\hossny D. monkey\source\repos\HotelSystem\Hotel.Services\obj\Debug\net9.0\Hotel.Services.AssemblyInfo.cs
+C:\Users\hossny D. monkey\source\repos\HotelSystem\Hotel.Services\obj\Debug\net9.0\Hotel.Services.csproj.CoreCompileInputs.cache
+C:\Users\hossny D. monkey\source\repos\HotelSystem\Hotel.Services\obj\Debug\net9.0\Hotel.Services.dll
+C:\Users\hossny D. monkey\source\repos\HotelSystem\Hotel.Services\obj\Debug\net9.0\refint\Hotel.Services.dll
+C:\Users\hossny D. monkey\source\repos\HotelSystem\Hotel.Services\obj\Debug\net9.0\Hotel.Services.pdb
+C:\Users\hossny D. monkey\source\repos\HotelSystem\Hotel.Services\obj\Debug\net9.0\Hotel.Services.genruntimeconfig.cache
+C:\Users\hossny D. monkey\source\repos\HotelSystem\Hotel.Services\obj\Debug\net9.0\ref\Hotel.Services.dll
+C:\Users\hossny D. monkey\source\repos\HotelSystem\Hotel.Services\bin\Debug\net9.0\Hotel.Core.dll
+C:\Users\hossny D. monkey\source\repos\HotelSystem\Hotel.Services\bin\Debug\net9.0\Hotel.Core.pdb
+C:\Users\hossny D. monkey\source\repos\HotelSystem\Hotel.Services\obj\Debug\net9.0\Hotel.Se.C945381A.Up2Date
