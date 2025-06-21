@@ -1,10 +1,11 @@
 ﻿using Hotel.Core.Entities.Enum;
+using System.ComponentModel.DataAnnotations;
 
 namespace Hotel.Services.DTOs
 {
     public class AddRoomDTO
     {
-        public string RoomNumber { get; set; }
+        public string RoomNum { get; set; }
         public RoomType Type { get; set; }
         public int Capacity { get; set; }
         public decimal PricePerNight { get; set; }

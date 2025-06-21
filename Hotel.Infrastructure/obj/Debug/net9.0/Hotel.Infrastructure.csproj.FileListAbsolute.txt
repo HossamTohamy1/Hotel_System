@@ -17,3 +17,23 @@ C:\Users\hossny D. monkey\source\repos\HotelSystem\Hotel.Infrastructure\obj\Debu
 C:\Users\hossny D. monkey\source\repos\HotelSystem\Hotel.Infrastructure\obj\Debug\net9.0\ref\Hotel.Infrastructure.dll
 C:\Users\hossny D. monkey\source\repos\HotelSystem\Hotel.Infrastructure\bin\Debug\net9.0\Hotel.Services.dll
 C:\Users\hossny D. monkey\source\repos\HotelSystem\Hotel.Infrastructure\bin\Debug\net9.0\Hotel.Services.pdb
+C:\Users\97152\Source\Repos\Hotel_System\Hotel.Infrastructure\bin\Debug\net9.0\Hotel.Infrastructure.deps.json
+C:\Users\97152\Source\Repos\Hotel_System\Hotel.Infrastructure\bin\Debug\net9.0\Hotel.Infrastructure.runtimeconfig.json
+C:\Users\97152\Source\Repos\Hotel_System\Hotel.Infrastructure\bin\Debug\net9.0\Hotel.Infrastructure.dll
+C:\Users\97152\Source\Repos\Hotel_System\Hotel.Infrastructure\bin\Debug\net9.0\Hotel.Infrastructure.pdb
+C:\Users\97152\Source\Repos\Hotel_System\Hotel.Infrastructure\bin\Debug\net9.0\Hotel.Core.dll
+C:\Users\97152\Source\Repos\Hotel_System\Hotel.Infrastructure\bin\Debug\net9.0\Hotel.Services.dll
+C:\Users\97152\Source\Repos\Hotel_System\Hotel.Infrastructure\bin\Debug\net9.0\Hotel.Services.pdb
+C:\Users\97152\Source\Repos\Hotel_System\Hotel.Infrastructure\bin\Debug\net9.0\Hotel.Core.pdb
+C:\Users\97152\Source\Repos\Hotel_System\Hotel.Infrastructure\obj\Debug\net9.0\Hotel.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\97152\Source\Repos\Hotel_System\Hotel.Infrastructure\obj\Debug\net9.0\Hotel.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\97152\Source\Repos\Hotel_System\Hotel.Infrastructure\obj\Debug\net9.0\Hotel.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\97152\Source\Repos\Hotel_System\Hotel.Infrastructure\obj\Debug\net9.0\Hotel.Infrastructure.AssemblyInfo.cs
+C:\Users\97152\Source\Repos\Hotel_System\Hotel.Infrastructure\obj\Debug\net9.0\Hotel.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\97152\Source\Repos\Hotel_System\Hotel.Infrastructure\obj\Debug\net9.0\Hotel.Infrastructure.sourcelink.json
+C:\Users\97152\Source\Repos\Hotel_System\Hotel.Infrastructure\obj\Debug\net9.0\Hotel.In.3ECE7436.Up2Date
+C:\Users\97152\Source\Repos\Hotel_System\Hotel.Infrastructure\obj\Debug\net9.0\Hotel.Infrastructure.dll
+C:\Users\97152\Source\Repos\Hotel_System\Hotel.Infrastructure\obj\Debug\net9.0\refint\Hotel.Infrastructure.dll
+C:\Users\97152\Source\Repos\Hotel_System\Hotel.Infrastructure\obj\Debug\net9.0\Hotel.Infrastructure.pdb
+C:\Users\97152\Source\Repos\Hotel_System\Hotel.Infrastructure\obj\Debug\net9.0\Hotel.Infrastructure.genruntimeconfig.cache
+C:\Users\97152\Source\Repos\Hotel_System\Hotel.Infrastructure\obj\Debug\net9.0\ref\Hotel.Infrastructure.dll

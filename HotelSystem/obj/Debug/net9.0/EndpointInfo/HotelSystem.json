@@ -78,17 +78,17 @@
             "content": {
               "text/plain": {
                 "schema": {
-                  "$ref": "#/components/schemas/RoomIEnumerableResponseViewModel"
+                  "$ref": "#/components/schemas/RoomResponseDtoIEnumerableResponseViewModel"
                 }
               },
               "application/json": {
                 "schema": {
-                  "$ref": "#/components/schemas/RoomIEnumerableResponseViewModel"
+                  "$ref": "#/components/schemas/RoomResponseDtoIEnumerableResponseViewModel"
                 }
               },
               "text/json": {
                 "schema": {
-                  "$ref": "#/components/schemas/RoomIEnumerableResponseViewModel"
+                  "$ref": "#/components/schemas/RoomResponseDtoIEnumerableResponseViewModel"
                 }
               }
             }
@@ -117,17 +117,17 @@
             "content": {
               "text/plain": {
                 "schema": {
-                  "$ref": "#/components/schemas/RoomResponseViewModel"
+                  "$ref": "#/components/schemas/RoomResponseDtoResponseViewModel"
                 }
               },
               "application/json": {
                 "schema": {
-                  "$ref": "#/components/schemas/RoomResponseViewModel"
+                  "$ref": "#/components/schemas/RoomResponseDtoResponseViewModel"
                 }
               },
               "text/json": {
                 "schema": {
-                  "$ref": "#/components/schemas/RoomResponseViewModel"
+                  "$ref": "#/components/schemas/RoomResponseDtoResponseViewModel"
                 }
               }
             }
@@ -146,17 +146,17 @@
             "content": {
               "text/plain": {
                 "schema": {
-                  "$ref": "#/components/schemas/RoomIEnumerableResponseViewModel"
+                  "$ref": "#/components/schemas/RoomResponseDtoIEnumerableResponseViewModel"
                 }
               },
               "application/json": {
                 "schema": {
-                  "$ref": "#/components/schemas/RoomIEnumerableResponseViewModel"
+                  "$ref": "#/components/schemas/RoomResponseDtoIEnumerableResponseViewModel"
                 }
               },
               "text/json": {
                 "schema": {
-                  "$ref": "#/components/schemas/RoomIEnumerableResponseViewModel"
+                  "$ref": "#/components/schemas/RoomResponseDtoIEnumerableResponseViewModel"
                 }
               }
             }
@@ -367,7 +367,7 @@
       "AddRoomDTO": {
         "type": "object",
         "properties": {
-          "roomNumber": {
+          "roomNum": {
             "type": "string",
             "nullable": true
           },
@@ -385,56 +385,6 @@
           "description": {
             "type": "string",
             "nullable": true
-          }
-        },
-        "additionalProperties": false
-      },
-      "Ads": {
-        "type": "object",
-        "properties": {
-          "id": {
-            "type": "integer",
-            "format": "int32"
-          },
-          "isDeleted": {
-            "type": "boolean"
-          },
-          "createdAt": {
-            "type": "string",
-            "format": "date-time"
-          },
-          "updatedAt": {
-            "type": "string",
-            "format": "date-time",
-            "nullable": true
-          },
-          "roomId": {
-            "type": "integer",
-            "format": "int32"
-          },
-          "title": {
-            "type": "string",
-            "nullable": true
-          },
-          "discount": {
-            "type": "number",
-            "format": "double"
-          },
-          "isActive": {
-            "type": "boolean"
-          },
-          "startDate": {
-            "type": "string",
-            "format": "date-time",
-            "nullable": true
-          },
-          "endDate": {
-            "type": "string",
-            "format": "date-time",
-            "nullable": true
-          },
-          "room": {
-            "$ref": "#/components/schemas/Room"
           }
         },
         "additionalProperties": false
@@ -460,84 +410,42 @@
       },
       "ErrorCode": {
         "enum": [
-          0,
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          100,
-          101,
-          102,
-          200,
-          201,
-          202,
-          300,
-          301,
-          302,
-          400,
-          401,
-          500,
-          501,
-          600,
-          601,
-          700,
-          701,
-          800,
-          801,
-          900,
-          901,
-          1000,
-          1001,
-          1100,
-          1101
+          "NoError",
+          "UnknownError",
+          "ValidationError",
+          "Unauthorized",
+          "Forbidden",
+          "DatabaseError",
+          "OperationFailed",
+          "BadRequest",
+          "NotFound",
+          "InvalidCourseId",
+          "CourseNotFound",
+          "CourseAlreadyExists",
+          "InstructorNotFound",
+          "InvalidInstructorId",
+          "InstructorAlreadyAssigned",
+          "StudentNotFound",
+          "InvalidStudentId",
+          "StudentAlreadyRegistered",
+          "QuestionNotFound",
+          "InvalidQuestionFormat",
+          "ChoiceNotFound",
+          "InvalidChoice",
+          "QuizNotFound",
+          "InvalidQuizId",
+          "ResultNotFound",
+          "InvalidResultData",
+          "StudentAnswerNotFound",
+          "InvalidStudentAnswer",
+          "StudentCourseNotFound",
+          "StudentAlreadyEnrolled",
+          "StudentExamNotFound",
+          "ExamAlreadySubmitted",
+          "StudentInstructorNotFound",
+          "InvalidAssignment"
         ],
-        "type": "integer",
-        "format": "int32"
-      },
-      "Facility": {
-        "type": "object",
-        "properties": {
-          "id": {
-            "type": "integer",
-            "format": "int32"
-          },
-          "isDeleted": {
-            "type": "boolean"
-          },
-          "createdAt": {
-            "type": "string",
-            "format": "date-time"
-          },
-          "updatedAt": {
-            "type": "string",
-            "format": "date-time",
-            "nullable": true
-          },
-          "name": {
-            "type": "string",
-            "nullable": true
-          },
-          "description": {
-            "type": "string",
-            "nullable": true
-          },
-          "iconClass": {
-            "type": "string",
-            "nullable": true
-          },
-          "roomFacilities": {
-            "type": "array",
-            "items": {
-              "$ref": "#/components/schemas/RoomFacility"
-            },
-            "nullable": true
-          }
-        },
-        "additionalProperties": false
+        "type": "string"
       },
       "LoginDTO": {
         "type": "object",
@@ -552,64 +460,6 @@
           }
         },
         "additionalProperties": false
-      },
-      "Payment": {
-        "type": "object",
-        "properties": {
-          "id": {
-            "type": "integer",
-            "format": "int32"
-          },
-          "isDeleted": {
-            "type": "boolean"
-          },
-          "createdAt": {
-            "type": "string",
-            "format": "date-time"
-          },
-          "updatedAt": {
-            "type": "string",
-            "format": "date-time",
-            "nullable": true
-          },
-          "reservationId": {
-            "type": "integer",
-            "format": "int32"
-          },
-          "amount": {
-            "type": "number",
-            "format": "double"
-          },
-          "paymentMethod": {
-            "type": "string",
-            "nullable": true
-          },
-          "transactionId": {
-            "type": "string",
-            "nullable": true
-          },
-          "status": {
-            "$ref": "#/components/schemas/PaymentStatus"
-          },
-          "paymentDate": {
-            "type": "string",
-            "format": "date-time"
-          },
-          "reservation": {
-            "$ref": "#/components/schemas/Reservation"
-          }
-        },
-        "additionalProperties": false
-      },
-      "PaymentStatus": {
-        "enum": [
-          0,
-          1,
-          2,
-          3
-        ],
-        "type": "integer",
-        "format": "int32"
       },
       "RegistrationDTO": {
         "type": "object",
@@ -633,299 +483,35 @@
         },
         "additionalProperties": false
       },
-      "Reservation": {
+      "RoomResponseDto": {
         "type": "object",
         "properties": {
-          "id": {
-            "type": "integer",
-            "format": "int32"
-          },
-          "isDeleted": {
-            "type": "boolean"
-          },
-          "createdAt": {
-            "type": "string",
-            "format": "date-time"
-          },
-          "updatedAt": {
-            "type": "string",
-            "format": "date-time",
-            "nullable": true
-          },
-          "userId": {
-            "type": "integer",
-            "format": "int32"
-          },
-          "checkInDate": {
-            "type": "string",
-            "format": "date-time"
-          },
-          "checkOutDate": {
-            "type": "string",
-            "format": "date-time"
-          },
-          "totalPrice": {
-            "type": "number",
-            "format": "double"
-          },
-          "status": {
-            "$ref": "#/components/schemas/ReservationStatus"
-          },
-          "user": {
-            "$ref": "#/components/schemas/User"
-          },
-          "payment": {
-            "$ref": "#/components/schemas/Payment"
-          },
-          "reservationRooms": {
-            "type": "array",
-            "items": {
-              "$ref": "#/components/schemas/ReservationRoom"
-            },
-            "nullable": true
-          }
-        },
-        "additionalProperties": false
-      },
-      "ReservationRoom": {
-        "type": "object",
-        "properties": {
-          "id": {
-            "type": "integer",
-            "format": "int32"
-          },
-          "isDeleted": {
-            "type": "boolean"
-          },
-          "createdAt": {
-            "type": "string",
-            "format": "date-time"
-          },
-          "updatedAt": {
-            "type": "string",
-            "format": "date-time",
-            "nullable": true
-          },
-          "reservationId": {
-            "type": "integer",
-            "format": "int32"
-          },
-          "roomId": {
-            "type": "integer",
-            "format": "int32"
-          },
-          "quantity": {
-            "type": "integer",
-            "format": "int32"
-          },
-          "priceAtReservation": {
-            "type": "number",
-            "format": "double"
-          },
-          "reservation": {
-            "$ref": "#/components/schemas/Reservation"
-          },
-          "room": {
-            "$ref": "#/components/schemas/Room"
-          }
-        },
-        "additionalProperties": false
-      },
-      "ReservationStatus": {
-        "enum": [
-          0,
-          1,
-          2,
-          3
-        ],
-        "type": "integer",
-        "format": "int32"
-      },
-      "Review": {
-        "type": "object",
-        "properties": {
-          "id": {
-            "type": "integer",
-            "format": "int32"
-          },
-          "isDeleted": {
-            "type": "boolean"
-          },
-          "createdAt": {
-            "type": "string",
-            "format": "date-time"
-          },
-          "updatedAt": {
-            "type": "string",
-            "format": "date-time",
-            "nullable": true
-          },
-          "userId": {
-            "type": "integer",
-            "format": "int32"
-          },
-          "roomId": {
-            "type": "integer",
-            "format": "int32"
-          },
-          "reservationId": {
-            "type": "integer",
-            "format": "int32"
-          },
-          "rating": {
-            "type": "integer",
-            "format": "int32"
-          },
-          "comment": {
-            "type": "string",
-            "nullable": true
-          },
-          "user": {
-            "$ref": "#/components/schemas/User"
-          },
-          "room": {
-            "$ref": "#/components/schemas/Room"
-          },
-          "reservation": {
-            "$ref": "#/components/schemas/Reservation"
-          }
-        },
-        "additionalProperties": false
-      },
-      "Room": {
-        "type": "object",
-        "properties": {
-          "id": {
-            "type": "integer",
-            "format": "int32"
-          },
-          "isDeleted": {
-            "type": "boolean"
-          },
-          "createdAt": {
-            "type": "string",
-            "format": "date-time"
-          },
-          "updatedAt": {
-            "type": "string",
-            "format": "date-time",
-            "nullable": true
-          },
           "roomNumber": {
             "type": "string",
             "nullable": true
-          },
-          "type": {
-            "$ref": "#/components/schemas/RoomType"
           },
           "capacity": {
             "type": "integer",
             "format": "int32"
           },
-          "pricePerNight": {
-            "type": "number",
-            "format": "double"
-          },
-          "description": {
-            "type": "string",
-            "nullable": true
-          },
           "imageUrl": {
             "type": "string",
             "nullable": true
           },
-          "discount": {
+          "pricePerNight": {
             "type": "number",
             "format": "double"
-          },
-          "tag": {
-            "type": "string",
-            "nullable": true
-          },
-          "isAvailable": {
-            "type": "boolean"
-          },
-          "roomFacilities": {
-            "type": "array",
-            "items": {
-              "$ref": "#/components/schemas/RoomFacility"
-            },
-            "nullable": true
-          },
-          "reservationRooms": {
-            "type": "array",
-            "items": {
-              "$ref": "#/components/schemas/ReservationRoom"
-            },
-            "nullable": true
-          },
-          "reviews": {
-            "type": "array",
-            "items": {
-              "$ref": "#/components/schemas/Review"
-            },
-            "nullable": true
-          },
-          "userFavorites": {
-            "type": "array",
-            "items": {
-              "$ref": "#/components/schemas/UserFavoriteRoom"
-            },
-            "nullable": true
-          },
-          "ads": {
-            "type": "array",
-            "items": {
-              "$ref": "#/components/schemas/Ads"
-            },
-            "nullable": true
           }
         },
         "additionalProperties": false
       },
-      "RoomFacility": {
-        "type": "object",
-        "properties": {
-          "id": {
-            "type": "integer",
-            "format": "int32"
-          },
-          "isDeleted": {
-            "type": "boolean"
-          },
-          "createdAt": {
-            "type": "string",
-            "format": "date-time"
-          },
-          "updatedAt": {
-            "type": "string",
-            "format": "date-time",
-            "nullable": true
-          },
-          "roomId": {
-            "type": "integer",
-            "format": "int32"
-          },
-          "facilityId": {
-            "type": "integer",
-            "format": "int32"
-          },
-          "room": {
-            "$ref": "#/components/schemas/Room"
-          },
-          "facility": {
-            "$ref": "#/components/schemas/Facility"
-          }
-        },
-        "additionalProperties": false
-      },
-      "RoomIEnumerableResponseViewModel": {
+      "RoomResponseDtoIEnumerableResponseViewModel": {
         "type": "object",
         "properties": {
           "data": {
             "type": "array",
             "items": {
-              "$ref": "#/components/schemas/Room"
+              "$ref": "#/components/schemas/RoomResponseDto"
             },
             "nullable": true
           },
@@ -942,11 +528,11 @@
         },
         "additionalProperties": false
       },
-      "RoomResponseViewModel": {
+      "RoomResponseDtoResponseViewModel": {
         "type": "object",
         "properties": {
           "data": {
-            "$ref": "#/components/schemas/Room"
+            "$ref": "#/components/schemas/RoomResponseDto"
           },
           "isSuccess": {
             "type": "boolean"
@@ -963,14 +549,13 @@
       },
       "RoomType": {
         "enum": [
-          0,
-          1,
-          2,
-          3,
-          4
+          "Standard",
+          "Deluxe",
+          "Suite",
+          "Family",
+          "Presidential"
         ],
-        "type": "integer",
-        "format": "int32"
+        "type": "string"
       },
       "UpdateRoomDTO": {
         "type": "object",
@@ -997,105 +582,6 @@
           "description": {
             "type": "string",
             "nullable": true
-          }
-        },
-        "additionalProperties": false
-      },
-      "User": {
-        "type": "object",
-        "properties": {
-          "id": {
-            "type": "integer",
-            "format": "int32"
-          },
-          "isDeleted": {
-            "type": "boolean"
-          },
-          "createdAt": {
-            "type": "string",
-            "format": "date-time"
-          },
-          "updatedAt": {
-            "type": "string",
-            "format": "date-time",
-            "nullable": true
-          },
-          "username": {
-            "type": "string",
-            "nullable": true
-          },
-          "email": {
-            "type": "string",
-            "nullable": true
-          },
-          "passwordHash": {
-            "type": "string",
-            "nullable": true
-          },
-          "phone": {
-            "type": "string",
-            "nullable": true
-          },
-          "role": {
-            "type": "string",
-            "nullable": true
-          },
-          "reservations": {
-            "type": "array",
-            "items": {
-              "$ref": "#/components/schemas/Reservation"
-            },
-            "nullable": true
-          },
-          "reviews": {
-            "type": "array",
-            "items": {
-              "$ref": "#/components/schemas/Review"
-            },
-            "nullable": true
-          },
-          "favoriteRooms": {
-            "type": "array",
-            "items": {
-              "$ref": "#/components/schemas/UserFavoriteRoom"
-            },
-            "nullable": true
-          }
-        },
-        "additionalProperties": false
-      },
-      "UserFavoriteRoom": {
-        "type": "object",
-        "properties": {
-          "id": {
-            "type": "integer",
-            "format": "int32"
-          },
-          "isDeleted": {
-            "type": "boolean"
-          },
-          "createdAt": {
-            "type": "string",
-            "format": "date-time"
-          },
-          "updatedAt": {
-            "type": "string",
-            "format": "date-time",
-            "nullable": true
-          },
-          "userId": {
-            "type": "integer",
-            "format": "int32"
-          },
-          "roomId": {
-            "type": "integer",
-            "format": "int32"
-          },
-          "user": {
-            "$ref": "#/components/schemas/User"
-          },
-          "room": {
-            "$ref": "#/components/schemas/Room"
           }
         },
         "additionalProperties": false

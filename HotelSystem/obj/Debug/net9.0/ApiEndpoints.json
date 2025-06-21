@@ -125,7 +125,7 @@
     ],
     "ReturnTypes": [
       {
-        "Type": "HotelSystem.ViewModels.ResponseViewModel\u00601[[Hotel.Core.Entities.Room, Hotel.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "HotelSystem.ViewModels.ResponseViewModel\u00601[[Hotel.Services.DTOs.Room.RoomResponseDto, Hotel.Services, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -145,7 +145,7 @@
     "Parameters": [],
     "ReturnTypes": [
       {
-        "Type": "HotelSystem.ViewModels.ResponseViewModel\u00601[[System.Collections.Generic.IEnumerable\u00601[[Hotel.Core.Entities.Room, Hotel.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "Type": "HotelSystem.ViewModels.ResponseViewModel\u00601[[System.Collections.Generic.IEnumerable\u00601[[Hotel.Services.DTOs.Room.RoomResponseDto, Hotel.Services, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -165,7 +165,7 @@
     "Parameters": [],
     "ReturnTypes": [
       {
-        "Type": "HotelSystem.ViewModels.ResponseViewModel\u00601[[System.Collections.Generic.IEnumerable\u00601[[Hotel.Core.Entities.Room, Hotel.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "Type": "HotelSystem.ViewModels.ResponseViewModel\u00601[[System.Collections.Generic.IEnumerable\u00601[[Hotel.Services.DTOs.Room.RoomResponseDto, Hotel.Services, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
         "MediaTypes": [
           "text/plain",
           "application/json",

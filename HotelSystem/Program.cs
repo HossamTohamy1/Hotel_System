@@ -6,6 +6,9 @@ using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.IdentityModel.Tokens;
 using System.Text;
 using Microsoft.VisualBasic;
+using FluentValidation.AspNetCore;
+using FluentValidation;
+using System.Text.Json.Serialization;
 
 namespace HotelSystem
 {
@@ -21,10 +24,15 @@ namespace HotelSystem
             builder.Services.AddInfrastructure(connectionString);
             builder.Services.AddApplicationServices();
 
-            builder.Services.AddControllers();
+            builder.Services.AddControllers().AddJsonOptions(options =>
+            {
+                options.JsonSerializerOptions.Converters.Add(new JsonStringEnumConverter());
+            });
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
             builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
+            builder.Services.AddFluentValidationAutoValidation();
+            builder.Services.AddValidatorsFromAssemblyContaining<Program>();
 
             // JWT Authentication setup
             var key = Encoding.ASCII.GetBytes(Hotel.Infrastructure.Presistance.Data.Constants.SecretKey); 

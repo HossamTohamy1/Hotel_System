@@ -6,6 +6,7 @@ using Hotel.Services.DTOs;
 using Hotel.Services.DTOs.Room;
 using Hotel.Core.Entities.Enum;
 using HotelSystem.ViewModels;
+using Hotel.Services;
 
 namespace HotelSystem.Controllers
 {
@@ -21,39 +22,29 @@ namespace HotelSystem.Controllers
         }
         [HttpGet("GET ROOM")]
         
-        public ResponseViewModel<IEnumerable<Room>> GetAllRooms()
+        public ResponseViewModel<IEnumerable<RoomResponseDto>> GetAllRooms()
         {
             var result = _roomServices.GetAll();
-            return new SuccessResponseViewModel<IEnumerable<Room>>(result, "Rooms retrieved successfully");
+            return result;
         }
 
         [HttpGet("GET BY ID")]
-        public async Task<ResponseViewModel<Room>> GetById(int id)
+        public async Task<ResponseViewModel<RoomResponseDto>> GetById(int id)
         {
-            if (id <= 0)
-                return new ErrorResponseViewModel<Room>("Invalid ID", ErrorCode.ValidationError);
-
-            var room = await _roomServices.GetByIdAsync(id);
-
-            if (room == null)
-                return new ErrorResponseViewModel<Room>("Room not found", ErrorCode.NotFound);
-
-            return new SuccessResponseViewModel<Room>(room, "Room retrieved successfully");
+            var result = await _roomServices.GetByIdAsync(id);
+            return result;
         }
 
         [HttpGet("GET ONLY AVALIABLE ROOM")]
 
-        public ResponseViewModel<IEnumerable<Room>> GetRooms()
+        public ResponseViewModel<IEnumerable<RoomResponseDto>> GetRooms()
         {
-            var availableRooms = _roomServices.GetAvailableRoomsAsync();
-            return new SuccessResponseViewModel<IEnumerable<Room>>(availableRooms, "Available rooms retrieved successfully");
+            var result = _roomServices.GetAvailableRoomsAsync();
+            return result;
         }
         [HttpPost]
-        public async Task<ResponseViewModel<bool>> AddRoom([FromBody] AddRoomDTO dto)
+        public async Task<ResponseViewModel<bool>> AddRoom([FromBody]AddRoomDTO dto)
         {
-            if (!ModelState.IsValid)
-                return new ErrorResponseViewModel<bool>("Invalid input data", ErrorCode.ValidationError);
-
             await _roomServices.AddAsync(dto);
             return new SuccessResponseViewModel<bool>(true, "Room added successfully");
         }
@@ -61,27 +52,15 @@ namespace HotelSystem.Controllers
         public async Task<ResponseViewModel<bool>> Update(UpdateRoomDTO dto)
         {
             var updated = await _roomServices.Update(dto);
-            if (!updated)
-                return new ErrorResponseViewModel<bool>("Room not found or not updated", ErrorCode.NotFound);
 
-            return new SuccessResponseViewModel<bool>(true, "Room updated successfully");
+            return updated;
         }
 
         [HttpDelete]
         public async Task<ResponseViewModel<bool>> Delete(int id)
         {
-            if (id <= 0)
-            {
-                return new ErrorResponseViewModel<bool>("Invalid course ID", ErrorCode.ValidationError);
-            }
-
-            var deleted = await _roomServices.Delete(id);
-            if (!deleted)
-            {
-                return new ErrorResponseViewModel<bool>("Course not found", ErrorCode.NotFound);
-            }
-
-            return new SuccessResponseViewModel<bool>(true, "Course deleted successfully");
+            var result = await _roomServices.Delete(id);
+            return result;
         }
     }
 }

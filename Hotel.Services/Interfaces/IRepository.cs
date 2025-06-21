@@ -9,7 +9,9 @@ namespace Hotel.Services.Interfaces
 
         Task AddAsync(T entity);
         Task<bool> UpdatePartialAsync(T entity, params string[] modifiedProperties);
-        Task DeleteAsync(int id);
+        Task DeleteAsync(T entity);
+        Task<T> GetByIdAsyncWithTracking(int id);
+
         Task SaveAsync();
     }
 }

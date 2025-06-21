@@ -1,7 +1,8 @@
 ﻿using Hotel.Core.Entities.Enum;
+using HotelSystem.ViewModels;
 using static System.Runtime.InteropServices.JavaScript.JSType;
 
-namespace HotelSystem.ViewModels
+namespace Hotel.Services
 {
     public class ErrorResponseViewModel<T> : ResponseViewModel<T>
     {

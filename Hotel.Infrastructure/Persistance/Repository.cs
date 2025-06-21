@@ -21,14 +21,10 @@ namespace Hotel.Infrastructure.Presistance
             await _context.SaveChangesAsync();
         }
 
-        public async Task DeleteAsync(int id)
+        public async Task DeleteAsync(T entity)
         {
-          var entity = await GetByIdAsync(id);
-            if (entity != null)
-            {
-                entity.IsDeleted = true;
-                await _context.SaveChangesAsync();
-            }
+            entity.IsDeleted = true;
+            await _context.SaveChangesAsync();
         }
 
         public IQueryable<T> GetAll()
@@ -42,7 +38,10 @@ namespace Hotel.Infrastructure.Presistance
         {
             return await _dbSet.FirstOrDefaultAsync(x=>x.Id==id && !x.IsDeleted);
         }
-
+        public async Task<T> GetByIdAsyncWithTracking(int id)
+        {
+            return await _dbSet.AsTracking().FirstOrDefaultAsync(x => x.Id == id && !x.IsDeleted);
+        }
         public async Task SaveAsync()
         {
             await _context.SaveChangesAsync();

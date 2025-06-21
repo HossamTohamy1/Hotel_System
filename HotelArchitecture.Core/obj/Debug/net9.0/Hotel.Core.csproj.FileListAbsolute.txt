@@ -12,3 +12,18 @@ C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelArchitecture.Core\obj\De
 C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelArchitecture.Core\obj\Debug\net9.0\Hotel.Core.pdb
 C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelArchitecture.Core\obj\Debug\net9.0\Hotel.Core.genruntimeconfig.cache
 C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelArchitecture.Core\obj\Debug\net9.0\ref\Hotel.Core.dll
+C:\Users\97152\Source\Repos\Hotel_System\HotelArchitecture.Core\bin\Debug\net9.0\Hotel.Core.deps.json
+C:\Users\97152\Source\Repos\Hotel_System\HotelArchitecture.Core\bin\Debug\net9.0\Hotel.Core.runtimeconfig.json
+C:\Users\97152\Source\Repos\Hotel_System\HotelArchitecture.Core\bin\Debug\net9.0\Hotel.Core.dll
+C:\Users\97152\Source\Repos\Hotel_System\HotelArchitecture.Core\bin\Debug\net9.0\Hotel.Core.pdb
+C:\Users\97152\Source\Repos\Hotel_System\HotelArchitecture.Core\obj\Debug\net9.0\Hotel.Core.csproj.AssemblyReference.cache
+C:\Users\97152\Source\Repos\Hotel_System\HotelArchitecture.Core\obj\Debug\net9.0\Hotel.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\97152\Source\Repos\Hotel_System\HotelArchitecture.Core\obj\Debug\net9.0\Hotel.Core.AssemblyInfoInputs.cache
+C:\Users\97152\Source\Repos\Hotel_System\HotelArchitecture.Core\obj\Debug\net9.0\Hotel.Core.AssemblyInfo.cs
+C:\Users\97152\Source\Repos\Hotel_System\HotelArchitecture.Core\obj\Debug\net9.0\Hotel.Core.csproj.CoreCompileInputs.cache
+C:\Users\97152\Source\Repos\Hotel_System\HotelArchitecture.Core\obj\Debug\net9.0\Hotel.Core.sourcelink.json
+C:\Users\97152\Source\Repos\Hotel_System\HotelArchitecture.Core\obj\Debug\net9.0\Hotel.Core.dll
+C:\Users\97152\Source\Repos\Hotel_System\HotelArchitecture.Core\obj\Debug\net9.0\refint\Hotel.Core.dll
+C:\Users\97152\Source\Repos\Hotel_System\HotelArchitecture.Core\obj\Debug\net9.0\Hotel.Core.pdb
+C:\Users\97152\Source\Repos\Hotel_System\HotelArchitecture.Core\obj\Debug\net9.0\Hotel.Core.genruntimeconfig.cache
+C:\Users\97152\Source\Repos\Hotel_System\HotelArchitecture.Core\obj\Debug\net9.0\ref\Hotel.Core.dll

@@ -8,6 +8,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Hotel.Services.DTOs.Room;
+using HotelSystem.ViewModels;
+using Hotel.Core.Entities.Enum;
 
 namespace Hotel.Services
 {
@@ -21,54 +23,78 @@ namespace Hotel.Services
             _mapper = mapper;
         }
 
-        public IQueryable<Room> GetAll()
+        public ResponseViewModel<IEnumerable<RoomResponseDto>> GetAll()
         {
-            return _repository.GetAll();
+            var rooms = _repository.GetAll().Select(x=>new RoomResponseDto(x.RoomNumber,x.Capacity,x.ImageUrl,x.PricePerNight));
+
+            return new SuccessResponseViewModel<IEnumerable<RoomResponseDto>>(rooms, "The Data Returned Succeffully.");
+        }
+
+        public ResponseViewModel<IEnumerable<RoomResponseDto>> GetAvailableRoomsAsync()
+        {
+            var rooms= _repository.GetAll().Where(x => x.IsAvailable == true).Select(x => new RoomResponseDto(x.RoomNumber, x.Capacity, x.ImageUrl, x.PricePerNight)); ;
+
+            return new SuccessResponseViewModel<IEnumerable<RoomResponseDto>>(rooms, "Available rooms retrieved successfully");
+
         }
 
         public async Task<Room> GetByIdAsync(int id)
         {
             return await _repository.GetByIdAsync(id);
         }
+        async Task<ResponseViewModel<RoomResponseDto>> IRoomServices.GetByIdAsync(int id)
+        {
+            if (id <= 0)
+                return new ErrorResponseViewModel<RoomResponseDto>("Invalid ID", ErrorCode.ValidationError);
+            var room = await _repository.GetByIdAsync(id);
+            if(room is null)
+                return new ErrorResponseViewModel<RoomResponseDto>("Room not found", ErrorCode.ValidationError);
 
+           var response= _mapper.Map<RoomResponseDto>(room);
+
+            return new SuccessResponseViewModel<RoomResponseDto>(response, "Room retrieved successfully");
+        }
         public async Task AddAsync(AddRoomDTO dto)
         {
             var entity = _mapper.Map<Room>(dto);
             await _repository.AddAsync(entity);
         }
-        public async Task<bool> Update(UpdateRoomDTO dto)
+        public async Task<ResponseViewModel<bool>> Update(UpdateRoomDTO dto)
         {
             var query = _mapper.Map<Room>(dto);
-            return await _repository.UpdatePartialAsync(query,
+            var update= await _repository.UpdatePartialAsync(query,
                 nameof(Room.RoomNumber),
                 nameof(Room.Type),
                 nameof(Room.Capacity),
                 nameof(Room.PricePerNight),
                 nameof(Room.Description));
+            if(!update)
+                return new ErrorResponseViewModel<bool>("Room not found or not updated", ErrorCode.NotFound);
+
+
+            return new SuccessResponseViewModel<bool>(true, "Room updated successfully");
         }
 
-        public async Task<bool> Delete(int id)
+        public async Task<ResponseViewModel<bool>> Delete(int id)
         {
-            try
+            if (id <= 0)
             {
+                return new ErrorResponseViewModel<bool>("Invalid Room ID", ErrorCode.ValidationError);
+            }
+            
 
-                var entity = await _repository.GetByIdAsync(id);
+                var entity = await _repository.GetByIdAsyncWithTracking(id);
                 if (entity == null)
                 {
-                    return false;
+                    return new ErrorResponseViewModel<bool>("Room Not Found", ErrorCode.NotFound);
                 }
 
 
-                await _repository.DeleteAsync(id);
+                await _repository.DeleteAsync(entity);
 
-                return true;
-            }
-            catch (Exception ex)
-            {
-
-
-                throw;
-            }
+                return new SuccessResponseViewModel<bool>(true, "Room deleted successfully");
+            
+            
         }
 
         public async Task SaveAsync()
@@ -76,11 +102,8 @@ namespace Hotel.Services
             await _repository.SaveAsync();
         }
 
-        public IEnumerable<Room> GetAvailableRoomsAsync()
-        {
-            return _repository.GetAll().Where(x=>x.IsAvailable==true);
-        }
+      
 
-        
+       
     }
 }
