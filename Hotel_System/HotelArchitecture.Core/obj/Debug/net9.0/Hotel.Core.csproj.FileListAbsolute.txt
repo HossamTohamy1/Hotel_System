@@ -1,0 +1,44 @@
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelArchitecture.Core\bin\Debug\net9.0\Hotel.Core.deps.json
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelArchitecture.Core\bin\Debug\net9.0\Hotel.Core.runtimeconfig.json
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelArchitecture.Core\bin\Debug\net9.0\Hotel.Core.dll
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelArchitecture.Core\bin\Debug\net9.0\Hotel.Core.pdb
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelArchitecture.Core\obj\Debug\net9.0\Hotel.Core.csproj.AssemblyReference.cache
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelArchitecture.Core\obj\Debug\net9.0\Hotel.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelArchitecture.Core\obj\Debug\net9.0\Hotel.Core.AssemblyInfoInputs.cache
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelArchitecture.Core\obj\Debug\net9.0\Hotel.Core.AssemblyInfo.cs
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelArchitecture.Core\obj\Debug\net9.0\Hotel.Core.csproj.CoreCompileInputs.cache
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelArchitecture.Core\obj\Debug\net9.0\Hotel.Core.dll
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelArchitecture.Core\obj\Debug\net9.0\refint\Hotel.Core.dll
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelArchitecture.Core\obj\Debug\net9.0\Hotel.Core.pdb
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelArchitecture.Core\obj\Debug\net9.0\Hotel.Core.genruntimeconfig.cache
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelArchitecture.Core\obj\Debug\net9.0\ref\Hotel.Core.dll
+C:\Users\97152\Source\Repos\Hotel_System\HotelArchitecture.Core\bin\Debug\net9.0\Hotel.Core.deps.json
+C:\Users\97152\Source\Repos\Hotel_System\HotelArchitecture.Core\bin\Debug\net9.0\Hotel.Core.runtimeconfig.json
+C:\Users\97152\Source\Repos\Hotel_System\HotelArchitecture.Core\bin\Debug\net9.0\Hotel.Core.dll
+C:\Users\97152\Source\Repos\Hotel_System\HotelArchitecture.Core\bin\Debug\net9.0\Hotel.Core.pdb
+C:\Users\97152\Source\Repos\Hotel_System\HotelArchitecture.Core\obj\Debug\net9.0\Hotel.Core.csproj.AssemblyReference.cache
+C:\Users\97152\Source\Repos\Hotel_System\HotelArchitecture.Core\obj\Debug\net9.0\Hotel.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\97152\Source\Repos\Hotel_System\HotelArchitecture.Core\obj\Debug\net9.0\Hotel.Core.AssemblyInfoInputs.cache
+C:\Users\97152\Source\Repos\Hotel_System\HotelArchitecture.Core\obj\Debug\net9.0\Hotel.Core.AssemblyInfo.cs
+C:\Users\97152\Source\Repos\Hotel_System\HotelArchitecture.Core\obj\Debug\net9.0\Hotel.Core.csproj.CoreCompileInputs.cache
+C:\Users\97152\Source\Repos\Hotel_System\HotelArchitecture.Core\obj\Debug\net9.0\Hotel.Core.sourcelink.json
+C:\Users\97152\Source\Repos\Hotel_System\HotelArchitecture.Core\obj\Debug\net9.0\Hotel.Core.dll
+C:\Users\97152\Source\Repos\Hotel_System\HotelArchitecture.Core\obj\Debug\net9.0\refint\Hotel.Core.dll
+C:\Users\97152\Source\Repos\Hotel_System\HotelArchitecture.Core\obj\Debug\net9.0\Hotel.Core.pdb
+C:\Users\97152\Source\Repos\Hotel_System\HotelArchitecture.Core\obj\Debug\net9.0\Hotel.Core.genruntimeconfig.cache
+C:\Users\97152\Source\Repos\Hotel_System\HotelArchitecture.Core\obj\Debug\net9.0\ref\Hotel.Core.dll
+D:\To_Do_List\Hotel_System\Hotel_System\HotelArchitecture.Core\bin\Debug\net9.0\Hotel.Core.deps.json
+D:\To_Do_List\Hotel_System\Hotel_System\HotelArchitecture.Core\bin\Debug\net9.0\Hotel.Core.runtimeconfig.json
+D:\To_Do_List\Hotel_System\Hotel_System\HotelArchitecture.Core\bin\Debug\net9.0\Hotel.Core.dll
+D:\To_Do_List\Hotel_System\Hotel_System\HotelArchitecture.Core\bin\Debug\net9.0\Hotel.Core.pdb
+D:\To_Do_List\Hotel_System\Hotel_System\HotelArchitecture.Core\obj\Debug\net9.0\Hotel.Core.csproj.AssemblyReference.cache
+D:\To_Do_List\Hotel_System\Hotel_System\HotelArchitecture.Core\obj\Debug\net9.0\Hotel.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\To_Do_List\Hotel_System\Hotel_System\HotelArchitecture.Core\obj\Debug\net9.0\Hotel.Core.AssemblyInfoInputs.cache
+D:\To_Do_List\Hotel_System\Hotel_System\HotelArchitecture.Core\obj\Debug\net9.0\Hotel.Core.AssemblyInfo.cs
+D:\To_Do_List\Hotel_System\Hotel_System\HotelArchitecture.Core\obj\Debug\net9.0\Hotel.Core.csproj.CoreCompileInputs.cache
+D:\To_Do_List\Hotel_System\Hotel_System\HotelArchitecture.Core\obj\Debug\net9.0\Hotel.Core.sourcelink.json
+D:\To_Do_List\Hotel_System\Hotel_System\HotelArchitecture.Core\obj\Debug\net9.0\Hotel.Core.dll
+D:\To_Do_List\Hotel_System\Hotel_System\HotelArchitecture.Core\obj\Debug\net9.0\refint\Hotel.Core.dll
+D:\To_Do_List\Hotel_System\Hotel_System\HotelArchitecture.Core\obj\Debug\net9.0\Hotel.Core.pdb
+D:\To_Do_List\Hotel_System\Hotel_System\HotelArchitecture.Core\obj\Debug\net9.0\Hotel.Core.genruntimeconfig.cache
+D:\To_Do_List\Hotel_System\Hotel_System\HotelArchitecture.Core\obj\Debug\net9.0\ref\Hotel.Core.dll

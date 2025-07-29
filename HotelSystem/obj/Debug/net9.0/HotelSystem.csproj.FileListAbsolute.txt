@@ -1,0 +1,561 @@
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\bin\Debug\net9.0\appsettings.json
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\bin\Debug\net9.0\HotelSystem.staticwebassets.endpoints.json
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\bin\Debug\net9.0\HotelSystem.exe
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\bin\Debug\net9.0\HotelSystem.deps.json
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\bin\Debug\net9.0\HotelSystem.runtimeconfig.json
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\bin\Debug\net9.0\HotelSystem.dll
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\bin\Debug\net9.0\HotelSystem.pdb
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\bin\Debug\net9.0\Azure.Identity.dll
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\bin\Debug\net9.0\Humanizer.dll
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\bin\Debug\net9.0\System.Drawing.Common.dll
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\bin\Debug\net9.0\System.Formats.Asn1.dll
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\bin\Debug\net9.0\System.Text.Json.dll
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\bin\Debug\net9.0\Hotel.Core.dll
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\bin\Debug\net9.0\Hotel.Infrastructure.dll
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\bin\Debug\net9.0\Hotel.Services.dll
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\bin\Debug\net9.0\Hotel.Infrastructure.pdb
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\bin\Debug\net9.0\Hotel.Services.pdb
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\bin\Debug\net9.0\Hotel.Core.pdb
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\obj\Debug\net9.0\HotelSystem.csproj.AssemblyReference.cache
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\obj\Debug\net9.0\HotelSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\obj\Debug\net9.0\HotelSystem.AssemblyInfoInputs.cache
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\obj\Debug\net9.0\HotelSystem.AssemblyInfo.cs
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\obj\Debug\net9.0\HotelSystem.csproj.CoreCompileInputs.cache
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\obj\Debug\net9.0\HotelSystem.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\obj\Debug\net9.0\scopedcss\bundle\HotelSystem.styles.css
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\obj\Debug\net9.0\staticwebassets\msbuild.HotelSystem.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\obj\Debug\net9.0\staticwebassets\msbuild.HotelSystem.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\obj\Debug\net9.0\staticwebassets\msbuild.build.HotelSystem.props
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.HotelSystem.props
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.HotelSystem.props
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\obj\Debug\net9.0\HotelSys.CA92F6DF.Up2Date
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\obj\Debug\net9.0\HotelSystem.dll
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\obj\Debug\net9.0\refint\HotelSystem.dll
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\obj\Debug\net9.0\HotelSystem.pdb
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\obj\Debug\net9.0\HotelSystem.genruntimeconfig.cache
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\obj\Debug\net9.0\ref\HotelSystem.dll
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\bin\Debug\net9.0\AutoMapper.dll
+C:\Users\hossny D. monkey\source\repos\HotelSystem\HotelSystem\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\bin\Debug\net9.0\appsettings.json
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\bin\Debug\net9.0\HotelSystem.staticwebassets.endpoints.json
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\bin\Debug\net9.0\HotelSystem.exe
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\bin\Debug\net9.0\HotelSystem.deps.json
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\bin\Debug\net9.0\HotelSystem.runtimeconfig.json
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\bin\Debug\net9.0\HotelSystem.dll
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\bin\Debug\net9.0\HotelSystem.pdb
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\bin\Debug\net9.0\AutoMapper.dll
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\bin\Debug\net9.0\Azure.Identity.dll
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\bin\Debug\net9.0\Humanizer.dll
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\bin\Debug\net9.0\System.Drawing.Common.dll
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\bin\Debug\net9.0\System.Formats.Asn1.dll
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\bin\Debug\net9.0\System.Text.Json.dll
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\bin\Debug\net9.0\Hotel.Core.dll
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\bin\Debug\net9.0\Hotel.Infrastructure.dll
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\bin\Debug\net9.0\Hotel.Services.dll
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\bin\Debug\net9.0\Hotel.Infrastructure.pdb
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\bin\Debug\net9.0\Hotel.Services.pdb
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\bin\Debug\net9.0\Hotel.Core.pdb
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\obj\Debug\net9.0\HotelSystem.csproj.AssemblyReference.cache
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\obj\Debug\net9.0\HotelSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\obj\Debug\net9.0\HotelSystem.AssemblyInfoInputs.cache
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\obj\Debug\net9.0\HotelSystem.AssemblyInfo.cs
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\obj\Debug\net9.0\HotelSystem.csproj.CoreCompileInputs.cache
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\obj\Debug\net9.0\HotelSystem.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\obj\Debug\net9.0\HotelSystem.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\obj\Debug\net9.0\HotelSystem.sourcelink.json
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\obj\Debug\net9.0\scopedcss\bundle\HotelSystem.styles.css
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\obj\Debug\net9.0\staticwebassets\msbuild.HotelSystem.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\obj\Debug\net9.0\staticwebassets\msbuild.HotelSystem.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\obj\Debug\net9.0\staticwebassets\msbuild.build.HotelSystem.props
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.HotelSystem.props
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.HotelSystem.props
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\obj\Debug\net9.0\HotelSys.CA92F6DF.Up2Date
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\obj\Debug\net9.0\HotelSystem.dll
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\obj\Debug\net9.0\refint\HotelSystem.dll
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\obj\Debug\net9.0\HotelSystem.pdb
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\obj\Debug\net9.0\HotelSystem.genruntimeconfig.cache
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\obj\Debug\net9.0\ref\HotelSystem.dll
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\bin\Debug\net9.0\FluentValidation.dll
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\bin\Debug\net9.0\FluentValidation.AspNetCore.dll
+C:\Users\97152\Source\Repos\Hotel_System\HotelSystem\bin\Debug\net9.0\FluentValidation.DependencyInjectionExtensions.dll
+<<<<<<< HEAD
+=======
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\appsettings.Development.json
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\appsettings.json
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\HotelSystem.staticwebassets.endpoints.json
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\HotelSystem.exe
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\HotelSystem.deps.json
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\HotelSystem.runtimeconfig.json
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\HotelSystem.dll
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\HotelSystem.pdb
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\AutoMapper.dll
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\Azure.Core.dll
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\Azure.Identity.dll
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\FluentValidation.dll
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\FluentValidation.AspNetCore.dll
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\Humanizer.dll
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\Microsoft.OpenApi.dll
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\Mono.TextTemplating.dll
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\System.ClientModel.dll
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\System.CodeDom.dll
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\System.Composition.Convention.dll
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\System.Composition.Hosting.dll
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\System.Composition.Runtime.dll
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\System.Composition.TypedParts.dll
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\System.Drawing.Common.dll
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\System.Formats.Asn1.dll
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\System.Memory.Data.dll
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\System.Runtime.Caching.dll
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\System.Security.Permissions.dll
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\System.Text.Json.dll
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\System.Windows.Extensions.dll
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\Hotel.Core.dll
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\Hotel.Infrastructure.dll
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\Hotel.Services.dll
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\Hotel.Infrastructure.pdb
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\Hotel.Services.pdb
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\Hotel.Core.pdb
+D:\To_Do_List\Hotel_System\HotelSystem\obj\Debug\net9.0\HotelSystem.csproj.AssemblyReference.cache
+D:\To_Do_List\Hotel_System\HotelSystem\obj\Debug\net9.0\HotelSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\To_Do_List\Hotel_System\HotelSystem\obj\Debug\net9.0\HotelSystem.AssemblyInfoInputs.cache
+D:\To_Do_List\Hotel_System\HotelSystem\obj\Debug\net9.0\HotelSystem.AssemblyInfo.cs
+D:\To_Do_List\Hotel_System\HotelSystem\obj\Debug\net9.0\HotelSystem.csproj.CoreCompileInputs.cache
+D:\To_Do_List\Hotel_System\HotelSystem\obj\Debug\net9.0\HotelSystem.MvcApplicationPartsAssemblyInfo.cache
+D:\To_Do_List\Hotel_System\HotelSystem\obj\Debug\net9.0\HotelSystem.sourcelink.json
+D:\To_Do_List\Hotel_System\HotelSystem\obj\Debug\net9.0\scopedcss\bundle\HotelSystem.styles.css
+D:\To_Do_List\Hotel_System\HotelSystem\obj\Debug\net9.0\staticwebassets.build.json
+D:\To_Do_List\Hotel_System\HotelSystem\obj\Debug\net9.0\staticwebassets.development.json
+D:\To_Do_List\Hotel_System\HotelSystem\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\To_Do_List\Hotel_System\HotelSystem\obj\Debug\net9.0\staticwebassets\msbuild.HotelSystem.Microsoft.AspNetCore.StaticWebAssets.props
+D:\To_Do_List\Hotel_System\HotelSystem\obj\Debug\net9.0\staticwebassets\msbuild.HotelSystem.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\To_Do_List\Hotel_System\HotelSystem\obj\Debug\net9.0\staticwebassets\msbuild.build.HotelSystem.props
+D:\To_Do_List\Hotel_System\HotelSystem\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.HotelSystem.props
+D:\To_Do_List\Hotel_System\HotelSystem\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.HotelSystem.props
+D:\To_Do_List\Hotel_System\HotelSystem\obj\Debug\net9.0\staticwebassets.pack.json
+D:\To_Do_List\Hotel_System\HotelSystem\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+D:\To_Do_List\Hotel_System\HotelSystem\obj\Debug\net9.0\HotelSys.CA92F6DF.Up2Date
+D:\To_Do_List\Hotel_System\HotelSystem\obj\Debug\net9.0\HotelSystem.dll
+D:\To_Do_List\Hotel_System\HotelSystem\obj\Debug\net9.0\refint\HotelSystem.dll
+D:\To_Do_List\Hotel_System\HotelSystem\obj\Debug\net9.0\HotelSystem.pdb
+D:\To_Do_List\Hotel_System\HotelSystem\obj\Debug\net9.0\HotelSystem.genruntimeconfig.cache
+D:\To_Do_List\Hotel_System\HotelSystem\obj\Debug\net9.0\ref\HotelSystem.dll
+D:\To_Do_List\Hotel_System\HotelSystem\obj\Debug\net9.0\HotelSystem.MvcApplicationPartsAssemblyInfo.cs
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\Microsoft.Extensions.Identity.Core.dll
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\Serilog.dll
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\Serilog.AspNetCore.dll
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\Serilog.Enrichers.Environment.dll
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\Serilog.Enrichers.Process.dll
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\Serilog.Enrichers.Thread.dll
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\Serilog.Extensions.Hosting.dll
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\Serilog.Extensions.Logging.dll
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\Serilog.Formatting.Compact.dll
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\Serilog.Settings.Configuration.dll
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\Serilog.Sinks.Console.dll
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\Serilog.Sinks.Debug.dll
+D:\To_Do_List\Hotel_System\HotelSystem\bin\Debug\net9.0\Serilog.Sinks.File.dll
+D:\To_Do_List\Hotel_System\HotelSystem\obj\Debug\net9.0\HotelSystem.Resources.SharedResources.resources
+D:\To_Do_List\Hotel_System\HotelSystem\obj\Debug\net9.0\HotelSystem.csproj.GenerateResource.cache
+>>>>>>> d6d277f (add new feature)
