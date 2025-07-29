@@ -1,0 +1,15 @@
+D:\To_Do_List\Hotel_System\HotelArchitecture.Core\bin\Release\net9.0\Hotel.Core.deps.json
+D:\To_Do_List\Hotel_System\HotelArchitecture.Core\bin\Release\net9.0\Hotel.Core.runtimeconfig.json
+D:\To_Do_List\Hotel_System\HotelArchitecture.Core\bin\Release\net9.0\Hotel.Core.dll
+D:\To_Do_List\Hotel_System\HotelArchitecture.Core\bin\Release\net9.0\Hotel.Core.pdb
+D:\To_Do_List\Hotel_System\HotelArchitecture.Core\obj\Release\net9.0\Hotel.Core.csproj.AssemblyReference.cache
+D:\To_Do_List\Hotel_System\HotelArchitecture.Core\obj\Release\net9.0\Hotel.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\To_Do_List\Hotel_System\HotelArchitecture.Core\obj\Release\net9.0\Hotel.Core.AssemblyInfoInputs.cache
+D:\To_Do_List\Hotel_System\HotelArchitecture.Core\obj\Release\net9.0\Hotel.Core.AssemblyInfo.cs
+D:\To_Do_List\Hotel_System\HotelArchitecture.Core\obj\Release\net9.0\Hotel.Core.csproj.CoreCompileInputs.cache
+D:\To_Do_List\Hotel_System\HotelArchitecture.Core\obj\Release\net9.0\Hotel.Core.sourcelink.json
+D:\To_Do_List\Hotel_System\HotelArchitecture.Core\obj\Release\net9.0\Hotel.Core.dll
+D:\To_Do_List\Hotel_System\HotelArchitecture.Core\obj\Release\net9.0\refint\Hotel.Core.dll
+D:\To_Do_List\Hotel_System\HotelArchitecture.Core\obj\Release\net9.0\Hotel.Core.pdb
+D:\To_Do_List\Hotel_System\HotelArchitecture.Core\obj\Release\net9.0\Hotel.Core.genruntimeconfig.cache
+D:\To_Do_List\Hotel_System\HotelArchitecture.Core\obj\Release\net9.0\ref\Hotel.Core.dll
